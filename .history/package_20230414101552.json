@@ -21,7 +21,7 @@
     "not op_mini all"
   ],
   "engines": {
-    "node":"^14.17.4"
+    "node":""
   },
   "husky": {
     "hooks": {
